@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wyszukiwarka krajów Unii Europejskiej</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;1,600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
+
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <div class="header">
+            <div class="shadow"></div>
+            <h1>Kraje UE</h1>
+            <input type="text" class="search" placeholder="Sprawdź czy kraj należy do Unii Europejskiej">
+        </div>
+
+        <div class="country-list">
+            <h2>Lista krajów Unii Europejskiej:</h2>
+            <ul>
+                <li>Austria</li>
+                <li>Belgia</li>
+                <li>Bułgaria</li>
+                <li>Chorwacja</li>
+                <li>Cypr</li>
+                <li>Czechy</li>
+                <li>Dania</li>
+                <li>Estonia</li>
+                <li>Finlandia</li>
+                <li>Francja</li>
+                <li>Niemcy</li>
+                <li>Grecja</li>
+                <li>Węgry</li>
+                <li>Irlandia</li>
+                <li>Włochy</li>
+                <li>Łotwa</li>
+                <li>Litwa</li>
+                <li>Luksemburg</li>
+                <li>Malta</li>
+                <li>Holandia</li>
+                <li>Polska</li>
+                <li>Portugalia</li>
+                <li>Rumunia</li>
+                <li>Słowacja</li>
+                <li>Słowenia</li>
+                <li>Hiszpania</li>
+                <li>Szwecja</li>
+        </div>
+
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
